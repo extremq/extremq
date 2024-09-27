@@ -31,6 +31,6 @@ There are a lot of repos on this profile, so I've made a list with some of the m
 ### Java
 - [extremq/pomodoro](https://github.com/extremq/pomodoro): Pomodoro app with a GUI.
 
-### Javascript
+### Javascript/HTML/CSS
 - [extremq/drawing-next](https://github.com/extremq/drawing-next): Next.js website used for uploading drawings. It has a smart tagging system.
 - [extremq/shobi-node](https://github.com/extremq/shobi-node): Social media built on express.
