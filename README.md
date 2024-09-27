@@ -6,6 +6,8 @@ I sometimes (once in a blue moon) write articles on [extremq.com](https://extrem
 
 # Notable repos
 
+There are a lot of repos on this profile, so I've made a list with some of the more interesting ones.
+
 ### C++
 - [extremq/punity](https://github.com/extremq/punity): Game engine written for Raspberry Pi Pico. I also wrote a game using it. It aims to clone the Unity API. 
 - [extremq/arduino-pomodoro](https://github.com/extremq/arduino-pomodoro): Pomodoro app written for Arduino boards.
