@@ -1,3 +1,9 @@
+# Articles
+
+I sometimes (once in a blue moon) write articles on [extremq.com](https://extremq.com). Please check them out:
+- [The Inexact Design of Probabilistic Data Structures](https://www.extremq.com/2023/10/29/probabilistic-data-structures/)
+- [Punity, a Unity-like Game Engine for the Raspberry Pi Pico](https://www.extremq.com/2023/05/22/punity/)
+
 # Notable repos
 
 ### C++
