@@ -22,7 +22,7 @@ There are a lot of repos on this profile, so I've made a list with some of the m
 - [extremq/neural-network-number-recognizer](https://github.com/extremq/neural-network-number-recognizer): Wrote my neural network to detect numbers (MNIST dataset, more precisely).
 
 ### Lua
-- [extremq/ninja](https://github.com/extremq/ninja): Multiplayer game for Transformice. It has 100 concurrent users at its peak. 
+- [extremq/ninja](https://github.com/extremq/ninja): Multiplayer game for Transformice. It had 100 concurrent users at its peak. 
 
 ### Rust
 - [extremq/minigrep](https://github.com/extremq/minigrep): Exercise from the Rust Book.
