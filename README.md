@@ -2,6 +2,7 @@
 
 I sometimes (once in a blue moon) write articles on [extremq.com](https://extremq.com). Please check them out:
 - [Punity, a Unity-like Game Engine for the Raspberry Pi Pico](https://www.extremq.com/2023/05/22/punity/)
+- [Why care?](https://www.extremq.com/2025/01/27/why-care/)
 
 # Notable repos
 
