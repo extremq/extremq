@@ -1,6 +1,7 @@
 # Articles
 
-I sometimes (once in a blue moon) write articles on [extremq.com](https://extremq.com). Please check them out:
+I sometimes write articles on [extremq.com](https://extremq.com). Please check them out:
+- [Unexpected Fourier](https://extremq.com/unexpected-fourier.html)
 - [Why care?](https://www.extremq.com/2025/01/27/why-care/)
 
 # Notable repos
