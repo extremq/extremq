@@ -25,6 +25,7 @@ There are a lot of repos on this profile, so I've made a list with some of the m
 - [extremq/ninja](https://github.com/extremq/ninja): Multiplayer game for Transformice. It had 100 concurrent users at its peak. 
 
 ### Rust
+- [extremq/mchat](https://github.com/extremq/mchat): A minecraft chat-only client, very rough.
 - [extremq/minigrep](https://github.com/extremq/minigrep): Exercise from the Rust Book.
 - [extremq/rustlings](https://github.com/extremq/rustlings): Covers my Rust write-ups for [rust-lang/rustlings](https://github.com/rust-lang/rustlings).
 
