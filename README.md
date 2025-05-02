@@ -1,3 +1,6 @@
+# Credits
+Profile picture: [@DaiYi_Art](https://twitter.com/DaiYi_Art)
+
 # Articles
 
 I sometimes write articles on [extremq.com](https://extremq.com). Please check them out:
