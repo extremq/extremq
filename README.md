@@ -6,8 +6,8 @@ Profile picture: [@DaiYi_Art](https://twitter.com/DaiYi_Art)
 I sometimes write articles on [extremq.com](https://extremq.com). Please check them out: 
 - [npm should remove the default license from new packages (ISC)](https://extremq.com/npm-should-remove-the-default-license-from-new-packages-isc/)
 - [Make sure your Japanese text is actually Japanese](https://extremq.com/make-sure-your-japanese-text-is-actually-japanese/)
-- [Unexpected Fourier](https://extremq.com/unexpected-fourier.html)
-- [Why care?](https://www.extremq.com/2025/01/27/why-care/)
+- [Unexpected Fourier](https://extremq.com/unexpected-fourier/)
+- [Why care?](https://www.extremq.com/why-care/)
 
 # Notable repos
 
