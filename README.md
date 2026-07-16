@@ -1,14 +1,6 @@
 # Credits
 Profile picture: [@DaiYi_Art](https://twitter.com/DaiYi_Art)
 
-# Articles
-
-I sometimes write articles on [extremq.com](https://extremq.com). Please check them out: 
-- [npm should remove the default license from new packages (ISC)](https://extremq.com/npm-should-remove-the-default-license-from-new-packages-isc/)
-- [Make sure your Japanese text is actually Japanese](https://extremq.com/make-sure-your-japanese-text-is-actually-japanese/)
-- [Unexpected Fourier](https://extremq.com/unexpected-fourier/)
-- [Why care?](https://www.extremq.com/why-care/)
-
 # Notable repos
 
 There are a lot of repos on this profile, so I've made a list with some of the more interesting ones.
